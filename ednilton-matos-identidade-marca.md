@@ -5,11 +5,11 @@
 
 ## QUEM SOU
 
-Sou entregador de app em São Paulo. Trabalhei as mesmas 8, 10 horas que meu seguidor trabalha — esperando 20, 30, às vezes 40 minutos numa loja sem saber se o pedido ia compensar. Então construí um bot que centraliza o que a gente já fazia no boca a boca.
+Sou um motoboy que faz entrega ifood em São Paulo. Trabalho as mesmas 10 ou 12 horas que meu seguidor trabalha — esperando 20, 30, às vezes 40 minutos numa loja sem saber se o pedido ira compensar. Então construí um bot que centraliza o que a gente já fazia no boca a boca.
 
 Sou o usuário do produto. Não tenho formação técnica nem investidor — tenho o problema na pele e uso IA para construir.
 
-Meu primeiro produto é o **TPSP (Tempo de Espera SP)** — um bot no Telegram que centraliza relatos de entregadores sobre o tempo de espera em lojas, ajudando outros entregadores a decidir se aceitam ou não um pedido em tempo real.
+Meu primeiro produto é o **TESP (Tempo de Espera SP)** — um bot no Telegram que centraliza relatos de entregadores sobre o tempo de espera em lojas, ajudando outros entregadores a decidir se aceitam ou não um pedido em tempo real.
 
 ---
 
